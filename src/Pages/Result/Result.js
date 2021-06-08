@@ -24,7 +24,10 @@ const Result = ({ name, score, mistakes }) => {
       <h3 className="title">
         Final Mistakes : <span className="mistake">{mistakes}</span>
       </h3>
-      <img src={imgResult}></img>
+      <img
+        src={imgResult}
+        alt="figura de menina estudando em frente ao computador"
+      ></img>
       <Button
         variant="contained"
         color="secondary"
