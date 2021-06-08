@@ -113,5 +113,5 @@ $ npm start
   <h1>Open Source</h1>
     
   <sub>Copyright © 2021</sub>
-  <p>Quizee <a href="">is MIT licensed </a></p>
+  <p>Quizee <a href="https://github.com/EliveltonSouzaDev/Quiz-App/blob/main/LICENSE">is MIT licensed </a></p>
 </div>
