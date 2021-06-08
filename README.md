@@ -27,7 +27,7 @@
   
         
 <div align="center">
-    <img src="/.github/pagInicial.png/" width="700" /> 
+    <img src="/.github/pagHome.png/" width="700" /> 
 </div>
 
 ## Possibilidades de um usuário médio na aplicação
@@ -96,6 +96,18 @@ $ npm start
 </table>
 
 </br>
+
+<div align="center">
+    <img src="/.github/pagHome.png/" width="700" /> 
+</div>
+        
+<div align="center">
+    <img src="/.github/pagQuestion.png/" width="700" /> 
+</div>
+        
+<div align="center">
+    <img src="/.github/pagResult.png/" width="700" /> 
+</div>
 
 <div align="center">
   <h1>Open Source</h1>
