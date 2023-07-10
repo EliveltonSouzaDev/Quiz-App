@@ -17,6 +17,9 @@
 
 </div>
 
+<h4>Read in <a href="https://github.com/EliveltonSouzaDev/Quiz-App/blob/main/README_English.md">English </a>.</h4>
+
+
 ## Sobre o projeto
 
 <p>
