@@ -17,7 +17,7 @@
 
 </div>
 
-<h6>Leia em Português<a href="[https://opentdb.com/api_config.php](https://github.com/EliveltonSouzaDev/Quiz-App/blob/main/README_English.md)">Português </a>.</h6>
+<h4>Leia em Português<a href="https://github.com/EliveltonSouzaDev/Quiz-App/blob/main/README_English.md">Português </a>.</h4>
 
 ## About the project
 
